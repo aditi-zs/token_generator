@@ -1,4 +1,4 @@
-module github.com/AditiVerma/token_generator
+module github.com/aditi-zs/token_generator
 
 go 1.21.1
 

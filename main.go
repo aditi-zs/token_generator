@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/AditiVerma/token_generator/handler"
+	"github.com/aditi-zs/token_generator/handler"
 )
 
 func main() {
