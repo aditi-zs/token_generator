@@ -12,4 +12,5 @@
 
 - Download the newly created credentials as JSON.
 - Clone the [token generator](https://github.com/aditi-zs/token_generator) repo and put the credential file at the root of the project. Rename the credential file to `credentials.json`.
+- Change the callback url and port according to redirect uri of your project in main.go
 - Run the project and follow the steps. Tokens generated to a new file called `token.json`.
